@@ -1,0 +1,15 @@
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/Lesson_38
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/Lesson_38.deps.json
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/Lesson_38.runtimeconfig.json
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/Lesson_38.dll
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/ref/Lesson_38.dll
+/home/anna/Seminar_05/Lesson_38/bin/Debug/net6.0/Lesson_38.pdb
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.csproj.AssemblyReference.cache
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.GeneratedMSBuildEditorConfig.editorconfig
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.AssemblyInfoInputs.cache
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.AssemblyInfo.cs
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.csproj.CoreCompileInputs.cache
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.dll
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/ref/Lesson_38.dll
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.pdb
+/home/anna/Seminar_05/Lesson_38/obj/Debug/net6.0/Lesson_38.genruntimeconfig.cache
